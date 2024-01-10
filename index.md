@@ -159,7 +159,7 @@ systems or distributed systems.
 <tr>
 <td markdown="span">14</td>
 <td markdown="span">Security (<a href="https://www.dropbox.com/s/9rz9n9gvhw2iajq/Topic%209%20-%20Data%20Security%20and%20Compliance.pdf?dl=0">Slides</a>)</td>
-<th markdown="1">Written Homework 2 released (April 20, 2023)</th>
+<th markdown="1">Written Homework 2 (to be released) (April 20, 2023)</th>
 </tr>
 <tr>
 <td markdown="span">15</td>
