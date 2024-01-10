@@ -113,7 +113,7 @@ systems or distributed systems.
 <tr>
 <td markdown="span">5</td>
 <td markdown="span">Storage/memory hierarchy (<a href="https://www.dropbox.com/s/aiy5rlmuz8xcpwd/Topic%204%20-%20single%20DB%20architecture.pdf?dl=0">Slides</a>)</td>
-<th markdown="1">Written Homework 1 released (February 16, 2023) (On Gradescope)</th>
+<th markdown="1">Written Homework 1 (to be released) (February 16, 2023) (On Gradescope)</th>
 </tr>
 <tr>
 <td markdown="span">6</td>
@@ -149,7 +149,7 @@ systems or distributed systems.
 <tr>
 <td markdown="span">12</td>
 <td markdown="span">Caching (<a href="https://www.dropbox.com/s/5sggarpl2kx1oxn/Topic%207%20-%20Caching.pdf?dl=0">Slides</a>)</td>
-<th markdown="1">[Programming Homework 2 released (Apr 10, 2023)]</th>
+<th markdown="1">[Programming Homework 2 (to be released) (Apr 10, 2023)]</th>
 </tr>
 <tr>
 <td markdown="span">13</td>
