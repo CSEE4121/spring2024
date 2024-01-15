@@ -51,11 +51,11 @@ OH: CEPSR (Schapiro Building) 7W51 Thursday 6:00pm-6:50pm
 <table>
   <tr>
     <td>Tal Zussman (Head TA) - tz2294@columbia.edu</td>
-    <td>Elisa Luo - eyl2130@columbia.edu</td>
+    <td>Mooizz Abdul - ma4496@columbia.edu</td>
   </tr>
   <tr>
-    <td>Wei Hao - wh2473@columbia.edu</td>
-    <td>Haoyu Li - haoyu.li@columbia.edu</td>
+    <td>Rattandeep Singh - rs4478@columbia.edu</td>
+    <td>Mohini Mangesh Bhave - mb5157@columbia.edu</td>
   </tr>
   <tr>
     <td>Maÿlis Whetsel - mw3391@columbia.edu</td>
