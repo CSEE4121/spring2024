@@ -98,7 +98,7 @@ systems or distributed systems.
 <tr>
 <td markdown="span">2</td>
 <td markdown="span">Relational Data Model (<a href="https://www.dropbox.com/s/z1vvm34hhwq1csj/Topic%202%20-%20relational%20model.pdf?dl=0">Slides</a>)</td>
-<th markdown="1">[Programming Homework 1 (to be released) (January 26, 2023)]</th>
+<th markdown="1">[Programming Homework 1 (to be released) (February 1st, 2024)]</th>
 </tr>
 <tr>
 <td markdown="span">3</td>
@@ -113,12 +113,12 @@ systems or distributed systems.
 <tr>
 <td markdown="span">5</td>
 <td markdown="span">Storage/memory hierarchy (<a href="https://www.dropbox.com/s/aiy5rlmuz8xcpwd/Topic%204%20-%20single%20DB%20architecture.pdf?dl=0">Slides</a>)</td>
-<th markdown="1">Written Homework 1 (to be released) (February 16, 2023) (On Gradescope)</th>
+<th markdown="1">Written Homework 1 (to be released) (February 14, 2024) (On Gradescope)</th>
 </tr>
 <tr>
 <td markdown="span">6</td>
 <td markdown="span"> Indices and bloom filters</td>
-<th markdown="1">Programming Homework 1 due (February 23, 2023 4:59:59PM)</th>
+<th markdown="1">Programming Homework 1 due (February 22, 2024 4:59:59PM)</th>
 </tr>
 <tr>
 <td markdown="span">7</td>
@@ -149,7 +149,7 @@ systems or distributed systems.
 <tr>
 <td markdown="span">12</td>
 <td markdown="span">Caching (<a href="https://www.dropbox.com/s/5sggarpl2kx1oxn/Topic%207%20-%20Caching.pdf?dl=0">Slides</a>)</td>
-<th markdown="1">[Programming Homework 2 (to be released) (Apr 10, 2023)]</th>
+<th markdown="1">[Programming Homework 2 (to be released) (Apr 4, 2024)]</th>
 </tr>
 <tr>
 <td markdown="span">13</td>
@@ -159,17 +159,17 @@ systems or distributed systems.
 <tr>
 <td markdown="span">14</td>
 <td markdown="span">Security (<a href="https://www.dropbox.com/s/9rz9n9gvhw2iajq/Topic%209%20-%20Data%20Security%20and%20Compliance.pdf?dl=0">Slides</a>)</td>
-<th markdown="1">Written Homework 2 (to be released) (April 20, 2023)</th>
+<th markdown="1">Written Homework 2 (to be released) (April 18, 2023)</th>
 </tr>
 <tr>
 <td markdown="span">15</td>
 <td markdown="span">Data Quality and Review</td>
-<th markdown="1">Programming Homework 2 due (May 2, 2023 4:59:59PM)</th>
+<th markdown="1">Programming Homework 2 due (April 25, 2024 4:59:59PM)</th>
 </tr>
 <tr>
 <td markdown="span">16</td>
 <td markdown="span"></td>
-<th markdown="1">Written Homework 2 due (May 6, 2023 4:59:59PM, hard deadline May 7, 2023 4:59:59PM)</th>
+<th markdown="1">Written Homework 2 due (May 4, 2024 4:59:59PM, hard deadline May 7, 2023 4:59:59PM)</th>
 </tr>
 <tr>
 <td markdown="span">17</td>
