@@ -54,12 +54,12 @@ OH: CEPSR (Schapiro Building) 7W51 Thursday 6:00pm-6:50pm
     <td>Mooizz Abdul - ma4496@columbia.edu</td>
   </tr>
   <tr>
-    <td>Rattandeep Singh - rs4478@columbia.edu</td>
+    <td>Nipun Navin Agarwal - nna2132@columbia.edu</td>
     <td>Mohini Mangesh Bhave - mb5157@columbia.edu</td>
   </tr>
   <tr>
-    <td>Maÿlis Whetsel - mw3391@columbia.edu</td>
-    <td>Sai Teja Reddy Moolamalla - saitejareddy.m@columbia.edu</td>
+    <td>TBD - TBD@columbia.edu</td>
+    <td>TBD - TBD@columbia.edu</td>
   </tr>
 </table> 
 
