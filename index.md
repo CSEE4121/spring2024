@@ -89,7 +89,7 @@ systems or distributed systems.
 <tbody>
 <tr>
 <td markdown="span">1</td>
-<td markdown="span">Introduction (<a href="https://www.dropbox.com/s/rwldn1yysrjle8f/Topic%201%20-%20intro%20and%20rules%20of%20thumb-%202023.pdf?dl=0">Slides</a>)</td>
+<td markdown="span">Introduction (<a href="https://www.dropbox.com/scl/fi/mpj2twbm1l5dnfc6vvbau/Topic-1.pdf?rlkey=5r4m47yd0ivi6h3rzue0ui5o1&dl=0">Slides</a>)</td>
 <th></th>
 </tr>
 <tr>
