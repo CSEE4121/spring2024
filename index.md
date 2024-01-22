@@ -50,21 +50,20 @@ OH: CEPSR (Schapiro Building) 7W51 Thursday 6:00pm-6:50pm
 
 <table>
   <tr>
-    <td>Tal Zussman (Head TA) - tz2294@columbia.edu</td>
     <td>Mooizz Abdul - ma4496@columbia.edu</td>
-  </tr>
-  <tr>
     <td>Nipun Navin Agarwal - nna2132@columbia.edu</td>
-    <td>Mohini Mangesh Bhave - mb5157@columbia.edu</td>
   </tr>
   <tr>
-    <td>TBD - TBD@columbia.edu</td>
-    <td>TBD - TBD@columbia.edu</td>
+    <td>Mohini Mangesh Bhave - mb5157@columbia.edu</td>
+    <td>Samhit Chowdary Bhogavalli - sb4845@columbia.edu</td>
+  </tr>
+  <tr>
+    <td>Ajit Sharma Kasturi - ak5055@columbia.edu</td>
   </tr>
 </table> 
 
 ## Ed
-[Link](https://edstem.org/us/courses/35294/discussion/)
+[Link](https://edstem.org/us/courses/54718/discussion/)
 
 ## Prerequisites
 Students are expected to have solid programming experience in Python or with an
