@@ -61,6 +61,9 @@ OH: CEPSR (Schapiro Building) 7W51 Thursday 6:00pm-6:50pm
     <td>Tanisha Bisht - tb3061@columbia.edu</td>
     <td>Ajit Sharma Kasturi - ak5055@columbia.edu</td>
   </tr>
+  <tr>
+    <td>Anvith Pabba - ap4450@columbia.edu</td>
+  </tr>
 </table> 
 
 ## Ed
