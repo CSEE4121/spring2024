@@ -113,7 +113,7 @@ systems or distributed systems.
 <tr>
 <td markdown="span">5</td>
 <td markdown="span">Storage/memory hierarchy (<a href="https://www.dropbox.com/s/aiy5rlmuz8xcpwd/Topic%204%20-%20single%20DB%20architecture.pdf?dl=0">Slides</a>)</td>
-<th markdown="1">Written Homework 1 (to be released) (February 14, 2024) (On Gradescope)</th>
+<th markdown="1">Written Homework 1 (to be released) (February 15, 2024) (On Gradescope)</th>
 </tr>
 <tr>
 <td markdown="span">6</td>
@@ -123,12 +123,12 @@ systems or distributed systems.
 <tr>
 <td markdown="span">7</td>
 <td markdown="span">Distributed file systems (<a href="https://www.dropbox.com/s/q3hloco1elfgek9/Topic%205%20-%20Distributed%20File%20Systems%20and%20Databases.pdf?dl=0">Slides</a>)</td>
-<th markdown="1">Written Homework 1 due (March 6, 2022 4:59:59PM)</th>
+<th markdown="1">Written Homework 1 due (February 29, 2022 4:59:59PM)</th>
 <th></th>
 </tr>
 <tr>
 <td markdown="span">8</td>
-<td markdown="span">Midterm on 3/10 (all material up to Topic 4, not including RocksDB)</td>
+<td markdown="span">Midterm on 3/7 (all material up to Topic 4, not including RocksDB)</td>
 <th></th>
 </tr>
 <tr>
