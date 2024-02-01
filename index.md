@@ -98,7 +98,7 @@ systems or distributed systems.
 <tr>
 <td markdown="span">2</td>
 <td markdown="span">Relational Data Model (<a href="https://www.dropbox.com/s/z1vvm34hhwq1csj/Topic%202%20-%20relational%20model.pdf?dl=0">Slides</a>)</td>
-<th markdown="1">[Programming Homework 1 (to be released) (February 1st, 2024)]</th>
+<th markdown="1">[Programming Homework 1 released (February 1st, 2024)]({{ site.baseurl }}{%link assignments/prog_hw1/prog_hw1.md %})</th>
 </tr>
 <tr>
 <td markdown="span">3</td>
