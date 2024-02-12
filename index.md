@@ -173,7 +173,7 @@ systems or distributed systems.
 </tr>
 <tr>
 <td markdown="span">17</td>
-<td markdown="span">Final Exam (May 11, 2023)</td>
+<td markdown="span">Final Exam (May 9, 2024)</td>
 <th></th>
 </tr>
 </tbody>
