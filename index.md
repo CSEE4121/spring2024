@@ -123,7 +123,7 @@ systems or distributed systems.
 <tr>
 <td markdown="span">7</td>
 <td markdown="span">Distributed file systems (<a href="https://www.dropbox.com/s/q3hloco1elfgek9/Topic%205%20-%20Distributed%20File%20Systems%20and%20Databases.pdf?dl=0">Slides</a>)</td>
-<th markdown="1">Written Homework 1 due (February 29, 2022 4:59:59PM)</th>
+<th markdown="1">Written Homework 1 due (February 29, 2024 4:59:59PM)</th>
 <th></th>
 </tr>
 <tr>
@@ -169,7 +169,7 @@ systems or distributed systems.
 <tr>
 <td markdown="span">16</td>
 <td markdown="span"></td>
-<th markdown="1">Written Homework 2 due (May 4, 2024 4:59:59PM, hard deadline May 7, 2023 4:59:59PM)</th>
+<th markdown="1">Written Homework 2 due (May 4, 2024 4:59:59PM, hard deadline May 7, 2024 4:59:59PM)</th>
 </tr>
 <tr>
 <td markdown="span">17</td>
