@@ -149,7 +149,7 @@ systems or distributed systems.
 <tr>
 <td markdown="span">12</td>
 <td markdown="span">Caching (<a href="https://www.dropbox.com/s/5sggarpl2kx1oxn/Topic%207%20-%20Caching.pdf?dl=0">Slides</a>)</td>
-<th markdown="1">Programming Homework 2 released (TBD)</th>
+<th markdown="1">Programming Homework 2 released (April 4th, 2024)</th>
 </tr>
 <tr>
 <td markdown="span">13</td>
@@ -159,17 +159,17 @@ systems or distributed systems.
 <tr>
 <td markdown="span">14</td>
 <td markdown="span">Security (<a href="https://www.dropbox.com/s/9rz9n9gvhw2iajq/Topic%209%20-%20Data%20Security%20and%20Compliance.pdf?dl=0">Slides</a>)</td>
-<th markdown="1">Written Homework 2 released (TBD)</th>
+<th markdown="1">Written Homework 2 released (April 11th, 2024)</th>
 </tr>
 <tr>
 <td markdown="span">15</td>
 <td markdown="span">Data Quality and Review</td>
-<th markdown="1">Programming Homework 2 due (TBD)</th>
+<th markdown="1">Programming Homework 2 due (April 25th, 2024)</th>
 </tr>
 <tr>
 <td markdown="span">16</td>
 <td markdown="span"></td>
-<th markdown="1">Written Homework 2 due (TBD)</th>
+<th markdown="1">Written Homework 2 due (May 2, 2024)</th>
 </tr>
 <tr>
 <td markdown="span">17</td>
