@@ -149,7 +149,7 @@ systems or distributed systems.
 <tr>
 <td markdown="span">12</td>
 <td markdown="span">Caching (<a href="https://www.dropbox.com/s/5sggarpl2kx1oxn/Topic%207%20-%20Caching.pdf?dl=0">Slides</a>)</td>
-<th markdown="1">Programming Homework 2 released (April 4th, 2024)</th>
+<th markdown="1">[Programming Homework 2 released (April 4th, 2024)]({{ site.baseurl }}{%link assignments/prog_hw2/hw2.md %})</th>
 </tr>
 <tr>
 <td markdown="span">13</td>
